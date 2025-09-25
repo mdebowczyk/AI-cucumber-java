@@ -16,6 +16,9 @@ buildNumber.properties
 .vscode/
 .idx/
 
+# Project Config
+project.toml
+
 # Logs
 *.log
 
