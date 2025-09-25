@@ -13,6 +13,8 @@ buildNumber.properties
 .idea/
 *.iml
 *.iws
+.vscode/
+.idx/
 
 # Logs
 *.log
